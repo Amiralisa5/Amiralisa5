@@ -5,9 +5,6 @@
   Hi there 👋, I'm <strong>Amirali Sandani</strong> — welcome to my GitHub!
 </h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=.NET+Backend+Developer+%7C+C%23+%7C+ASP.NET+Core;Data+Science+%26+ML+Enthusiast;Clean+Architecture+%7C+Microservices+%7C+APIs;Always+learning+and+building+cool+stuff+🚀" alt="Typing Intro" />
-</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/amirali-sandani-2b070973/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Amirali%20Sandani-0A66C2?style=for-the-badge&logo=linkedin"></a>
@@ -22,7 +19,7 @@
 - I care about **clean architecture, performance, and reliable APIs**  
 - Exploring **Data Science / ML** to make systems *insightful* as well as *scalable*
 
-**Tech focus:** C#, ASP.NET Core, EF Core, NHibernate, SQL, REST, Microservices, Docker, Git
+**Tech focus:** C#,Python, ASP.NET, EF Core, NHibernate, SQL, REST, Microservices, Docker, Git, Ml, DSA
 
 ---
 
