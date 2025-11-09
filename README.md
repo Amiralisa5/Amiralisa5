@@ -114,8 +114,6 @@
 - `erp-modules` — clean architecture samples for accounting/ERP features  
 - `kpi-service` — KPI microservice (API + background jobs + caching)  
 - `dotnet-testing-starter` — xUnit + AutoFixture quickstart  
-> Tip: Pin your best repos from the profile page → **Customize your pins**.
-
 ---
 
 ## 🎯 What I’m Up To
@@ -127,13 +125,10 @@
 
 ## 🤝 Let’s Collaborate
 If you’re building **fintech/ERP** services, or want **backend + data** collaboration, reach out:  
-**sandani_amirali@yahoo.com** · **LinkedIn DM**
+**sandani_amirali@yahoo.com** · 
 
 ---
 
-## 🇮🇷 فارسی
-برنامه‌نویس بک‌اند .NET با تمرکز بر **APIهای مقیاس‌پذیر، بهینه‌سازی دیتابیس و معماری میکروسرویس**.  
-به **علم داده و یادگیری ماشین** علاقه‌مندم و در پروژه‌های داده‌محور مشارکت می‌کنم.
 
 ---
 
