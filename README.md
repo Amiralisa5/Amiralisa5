@@ -14,7 +14,7 @@ I currently work as a Junior AI Engineer, building with Python across AI and mac
 
 ### Experience
 
-- **Junior AI Engineer** — Present (~1 year)
+- **Junior AI Engineer** 
 - **.NET Backend Developer** — 2+ years, cloud-based ERP & fintech services
 
 ### Currently
